@@ -1,11 +1,10 @@
 {
-  "id": "calendar",
-  "name": "Calendar",
-  "description": "Calendar view of your daily notes",
-  "version": "1.5.10",
-  "author": "Liam Cain",
-  "authorUrl": "https://github.com/liamcain/",
-  "fundingUrl": "https://www.buymeacoffee.com/liamcain",
+  "id": "calendar-periodic",
+  "name": "Calendar Periodic",
+  "description": "Calendar view of your daily notes, now with periodic support",
+  "version": "1.5.11",
+  "author": "Liam Cain & Matt Maiorana",
+  "authorUrl": "https://github.com/mattmaiorana/",
   "isDesktopOnly": false,
   "minAppVersion": "0.9.11"
 }
